@@ -1,2 +1,2 @@
 # Demo
-MMIS (Machine Information Systems)
+MMIS (Machine Maintenance Information Systems)
